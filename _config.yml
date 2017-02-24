@@ -3,6 +3,6 @@ defaults:
   -
     scope:
       path: 
-      type: pages
+      type: page
     values:
       title: Join BBC News
