@@ -3,7 +3,18 @@
 
 @import "{{ site.theme }}";
 
+.site-header {
+    border-top: none !important; 
+    border-bottom: 1px solid #ccc !important;
+    margin-top: 10px;
+}
+
 .page-header {
     background-color: #bb1919;
     background-image: linear-gradient(120deg, #bb1919, #92211D);
+}
+
+// Hide project name
+header h1:first-child {
+    display: none;
 }
