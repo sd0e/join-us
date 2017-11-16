@@ -3,7 +3,7 @@ title: BBC News Products and Systems
 ---
 # Join Us
 
-We are looking for web and mobile developers, software engineers and testers at all levels. 
+We're looking for web and mobile developers, software engineers and testers at all levels. 
 
 Come and join us delivering the BBC's trusted news services across the globe to **hundreds of millions of readers in 40 languages.**
 
