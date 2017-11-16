@@ -13,8 +13,8 @@ Given the trust placed in BBC News, we work carefully and responsibly to deliver
 
 See our current active roles below:
 
-# We're looking for...
-## [Software Engineering Team Lead - News - World Service 2020](http://careerssearch.bbc.co.uk/jobs/job/Software-Engineering-Team-Lead-News-WS2020/21783)
+## We're looking for...
+### [Software Engineering Team Lead - News - World Service 2020](http://careerssearch.bbc.co.uk/jobs/job/Software-Engineering-Team-Lead-News-WS2020/21783)
 Applications close **03 Dec 2017**
 
 # More vacancies...
