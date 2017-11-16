@@ -1,25 +1,22 @@
 ---
 title: BBC News Products and Systems
 ---
+# Join Us
 
-# How you can join us at BBC News
+We are looking for web and mobile developers, software engineers and testers at all levels. Come and join us delivering the BBC's trusted news services across the globe to **hundreds of millions of readers in 40 languages.**
 
-We work in multidisciplinary teams, with Developers, Testers, Business Analysts, Project Managers and Product Managers, working closely with UX Designers. 
+Massive scale, performance, accessibility and wide device support is important in all our work.
 
-We are always looking for people to join us. 
+We work in agile, flexible teams, and have an exciting roadmap for future innovation in news for the web and apps.
+ 
+Given the trust placed in BBC News, we work carefully and responsibly to deliver the best possible news service for the web and mobile apps.
 
-# Current News development vacancies
+See our current active roles below:
 
-## [Lead Architect (Systems Architecture) - News](http://careerssearch.bbc.co.uk/jobs/job/Lead-Architect-Systems-Architecture-News/20885)
-Applications close **12th Oct 2017**
+# We're looking for...
+## [Software Engineering Team Lead - News - World Service 2020](http://careerssearch.bbc.co.uk/jobs/job/Software-Engineering-Team-Lead-News-WS2020/21783)
+Applications close **03 Dec 2017**
 
-## [Senior Software Engineer - Discovery & Curation](http://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-Discovery-Curation/23907)
-Applications close **10th Oct 2017**
-
-## [Frontend Software Engineer - News (Web Developer) Javascript / HTML / CSS](http://careerssearch.bbc.co.uk/jobs/job/Frontend-Software-Engineer-News-Web-Developer-Javascript-HTML-CSS/23987)
-Applications close **19th Oct 2017**
-
-# All News vacancies
-
-You can find open vacancies across News on the [BBC Career portal](http://careerssearch.bbc.co.uk/jobs/search) by searching for 'News'.
+# More vacancies...
+You can find all open vacancies across News on the [BBC Career portal](http://careerssearch.bbc.co.uk/jobs/search) by searching for 'News'.
 
