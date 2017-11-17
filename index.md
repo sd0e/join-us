@@ -13,7 +13,7 @@ We work in agile, flexible teams, and have an exciting roadmap for future innova
  
 Given the trust placed in BBC News, we work carefully and responsibly to deliver the best possible online news service.
 
-## We're looking for...
+## Currently Open...
 ### [Software Engineering Team Lead - News - World Service 2020](http://careerssearch.bbc.co.uk/jobs/job/Software-Engineering-Team-Lead-News-WS2020/21783)
 Applications close **03 Dec 2017**
 
@@ -32,6 +32,13 @@ Applications close **03 Dec 2017**
 ### [Senior Software Engineer - Monitoring (Django Javascript Python)](http://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-Monitoring-Django-Javascript-Python/23216)
 Applications close **17 Nov 2017**
 
-## More vacancies...
+## Opening soon...
+We're about to open up some roles like this:
+* **Mid-weight Software Engineer (web developer) in Web Engineering x 3**
+* **Senior Software Engineer (web developer) in Web Engineering x 2**
+
+More details on these in the next few days.
+
+## Even more vacancies...
 You can find all open vacancies across BBC News on the [BBC Career portal](http://careerssearch.bbc.co.uk/jobs/search) by searching for 'News'.
 
