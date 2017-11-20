@@ -17,9 +17,6 @@ Given the trust placed in BBC News, we work carefully and responsibly to deliver
 ### [Software Engineering Team Lead - News - World Service 2020](http://careerssearch.bbc.co.uk/jobs/job/Software-Engineering-Team-Lead-News-WS2020/21783)
 Applications close **03 Dec 2017**
 
-### [Senior Software Engineer (Web) - BBC News - Java](http://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-Web-BBC-News-Java/20607)
-Applications close **18 Nov 2017**
-
 ### [Senior Software Engineer - News Apps - Android (Mobile)](http://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-News-Apps-Android-Mobile/21188)
 Applications close **25 Nov 2017**
 
@@ -28,9 +25,6 @@ Applications close **28 Nov 2017**
 
 ### [Software Engineer - (Back End - Java) - News, WS2020](http://careerssearch.bbc.co.uk/jobs/job/Software-Engineer-Back-End-Java-News-WS2020/21278)
 Applications close **03 Dec 2017**
-
-### [Senior Software Engineer - Monitoring (Django Javascript Python)](http://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-Monitoring-Django-Javascript-Python/23216)
-Applications close **17 Nov 2017**
 
 ## Opening soon...
 We're about to open up some roles like this:
