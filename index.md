@@ -38,6 +38,10 @@ Applications close **05 Dec 2017**
 ### [Senior Software Engineer - Monitoring (Django Javascript Python)](http://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-Monitoring-Django-Javascript-Python/23216)
 Applications close **06 Dec 2017**
 
+### [Test Engineer - Global News](http://careerssearch.bbc.co.uk/jobs/job/Test-Engineer/22877)
+Applications close **26 Nov 2017**
+
+
 ## Opening soon...
 We're about to open up some roles like this:
 * **Junior to mid Software Engineer (web developer) in Web Engineering x 3**
