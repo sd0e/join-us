@@ -41,6 +41,8 @@ Applications close **06 Dec 2017**
 ### [Test Engineer - Global News](http://careerssearch.bbc.co.uk/jobs/job/Test-Engineer/22877)
 Applications close **26 Nov 2017**
 
+### [Software Engineer - TV & Radio (Javascript/Fullstack)](http://careerssearch.bbc.co.uk/jobs/job/Software-Engineer-TV-Radio-JavascriptFullstack/25196)
+Applications close **open**
 
 ## Opening soon...
 We're about to open up some roles like this:
