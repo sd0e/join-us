@@ -26,7 +26,7 @@ Applications close **28 Nov 2017**
 ### [Software Engineer - (Back End - Java) - News, WS2020](http://careerssearch.bbc.co.uk/jobs/job/Software-Engineer-Back-End-Java-News-WS2020/21278)
 Applications close **03 Dec 2017**
 
-### [Senior Software Engineer (Web Development) - Discovery & Curation](http://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-Discovery-Curation-BBC-News/23907)
+### [Senior Software Engineer (Web Development) - Discovery & Curation (2 positions)](http://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-Discovery-Curation-BBC-News/23907)
 Applications close **06 Dec 2017**
 
 ### [Software Engineer - News Labs (Javascript & Node.js)](http://careerssearch.bbc.co.uk/jobs/job/Software-Engineer-News-Labs-Javascript-Nodejs-FTC-12m/23575)
@@ -47,7 +47,7 @@ Applications close **open**
 ## Opening soon...
 We're about to open up some roles like this:
 * **Junior to mid Software Engineer (web developer) in Web Engineering x 3**
-* **Senior Software Engineer (web developer) in Web Engineering**
+* **Senior Software Engineer (web developer) in Reach and Languages - Web Engineering**
 
 More details on these in the next few days.
 
