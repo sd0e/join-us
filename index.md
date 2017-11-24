@@ -45,9 +45,11 @@ Applications close **26 Nov 2017**
 Applications close **open**
 
 ## Opening soon...
-We're about to open up some roles like this:
-* **Junior to mid Software Engineer (web developer) in Web Engineering x 3**
-* **Senior Software Engineer (web developer) in Reach and Languages - Web Engineering**
+We're about to open these roles:
+
+* **Principal Software Engineer - News in Web Engineering**
+* **Junior to mid Software Engineer (web developer) - News - Web Engineering x 3**
+* **Senior Software Engineer (web developer) - News - Reach and Languages**
 
 More details on these in the next few days.
 
