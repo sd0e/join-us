@@ -44,11 +44,17 @@ Applications close **26 Nov 2017**
 ### [Software Engineer - TV & Radio (Javascript/Fullstack)](http://careerssearch.bbc.co.uk/jobs/job/Software-Engineer-TV-Radio-JavascriptFullstack/25196)
 Applications close **open**
 
+### [Software Engineer - News - Reach and Languages](http://careerssearch.bbc.co.uk/jobs/job/Software-Engineer/25069)
+Applications close **08 Dec 2017**
+
+### [Junior Software Engineer - News - Web Engineering](http://careerssearch.bbc.co.uk/jobs/job/Junior-Software-Engineer/25068)
+Applications close **08 Dec 2017**
+
+
 ## Opening soon...
 We're about to open these roles:
 
 * **Principal Software Engineer - News in Web Engineering**
-* **Junior to mid Software Engineer (web developer) - News - Web Engineering x 3**
 * **Senior Software Engineer (web developer) - News - Reach and Languages**
 
 More details on these in the next few days.
