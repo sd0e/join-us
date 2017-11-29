@@ -59,6 +59,7 @@ We're about to open these roles:
 
 More details on these in the next few days.
 
+
 ## Even more vacancies...
 You can find all open vacancies across BBC News on the [BBC Career portal](http://careerssearch.bbc.co.uk/jobs/search) by searching for 'News'.
 
