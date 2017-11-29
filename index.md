@@ -18,7 +18,7 @@ Given the trust placed in BBC News, we work carefully and responsibly to deliver
 Applications close **03 Dec 2017**
 
 ### [Senior Software Engineer - News Apps - Android (Mobile)](http://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-News-Apps-Android-Mobile/21188)
-Applications close **25 Nov 2017**
+Applications close **29 Nov 2017**
 
 ### [Senior Software Engineer - iOS Mobile Apps- BBC News](http://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-iOS-Mobile-Apps-BBC-News/24249)
 Applications close **28 Nov 2017**
