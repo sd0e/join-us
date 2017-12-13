@@ -29,9 +29,6 @@ Applications close **03 Dec 2017**
 ### [Senior Software Engineer (Web Development) - Discovery & Curation (2 positions)](http://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-Discovery-Curation-BBC-News/23907)
 Applications close **06 Dec 2017**
 
-### [Software Engineer - News Labs (Javascript & Node.js)](http://careerssearch.bbc.co.uk/jobs/job/Software-Engineer-News-Labs-Javascript-Nodejs-FTC-12m/23575)
-Applications close **28 Nov 2017**
-
 ### [Software Engineer iOS Mobile Apps](http://careerssearch.bbc.co.uk/jobs/job/Software-Engineer-iOS-Mobile-Apps--BBC-News/24248)
 Applications close **05 Dec 2017**
 
