@@ -30,7 +30,7 @@ Applications close **18 Dec 2017**
 ### [Senior Software Engineer (Web) BBC News -Java](http://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-Web-BBC-News-Java/20607)
 Applications close **18 Dec 2017**
 
-### [Senior Software Engineer - DevOps / AWS / Ruby BBC News 2020](http://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-DevOps-AWS-Ruby/21784)
+### [Senior Software Engineer - DevOps / AWS / Ruby BBC News World Service 2020](http://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-DevOps-AWS-Ruby/21784)
 Applications close **12 Jan 2018**
 
 ### [Software Engineer iOS Mobile Apps, BBC News](http://careerssearch.bbc.co.uk/jobs/job/Software-Engineer-iOS-Mobile-Apps--BBC-News/24248)
@@ -42,8 +42,8 @@ Applications close **18 Dec 2017**
 ### [Software Engineer - TV & Radio (Javascript/Fullstack)](http://careerssearch.bbc.co.uk/jobs/job/Software-Engineer-TV-Radio-JavascriptFullstack/25196)
 Applications close **open**
 
-### [Software Engineer - Web - Reach and Languages - BBC News](http://careerssearch.bbc.co.uk/jobs/job/Software-Engineer/25069)
-Applications close **08 Dec 2017**
+### [Software Tester - BBC News, World Service S2020)](http://careerssearch.bbc.co.uk/jobs/job/Software-Tester-News-WS2020/23441)
+Applications close **2208 Jan 2018**
 
 ### [Software Engineer - Data Presentation (JavaScript - NodeJS) BBC News](https://careershub.bbc.co.uk/members/modules/job/detail.php?record=25564)
 Applications close **26 Dec 2017**
