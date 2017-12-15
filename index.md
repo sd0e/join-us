@@ -39,8 +39,8 @@ Applications close **18 Dec 2017**
 ### [Senior Software Engineer - Monitoring (Django Javascript Python)](http://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-Monitoring-Django-Javascript-Python/23216)
 Applications close **18 Dec 2017**
 
-### [Software Engineer - TV & Radio (Javascript/Fullstack)](http://careerssearch.bbc.co.uk/jobs/job/Software-Engineer-TV-Radio-JavascriptFullstack/25196)
-Applications close **open**
+### [Software Engineer - BBC News - Visual Journalism (Arabic Service)](http://careerssearch.bbc.co.uk/jobs/job/Software-Engineer-News-Visual-Journalism-Arabic-Service/25571)
+Applications close **20 Dec 2017**
 
 ### [Software Tester - BBC News, World Service S2020)](http://careerssearch.bbc.co.uk/jobs/job/Software-Tester-News-WS2020/23441)
 Applications close **2208 Jan 2018**
