@@ -43,7 +43,7 @@ Applications close **18 Dec 2017**
 Applications close **20 Dec 2017**
 
 ### [Software Tester - BBC News, World Service S2020)](http://careerssearch.bbc.co.uk/jobs/job/Software-Tester-News-WS2020/23441)
-Applications close **2208 Jan 2018**
+Applications close **22 Jan 2018**
 
 ### [Software Engineer - Data Presentation (JavaScript - NodeJS) BBC News](https://careershub.bbc.co.uk/members/modules/job/detail.php?record=25564)
 Applications close **26 Dec 2017**
