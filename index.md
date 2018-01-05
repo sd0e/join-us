@@ -42,7 +42,7 @@ Applications close **18 Dec 2017**
 ### [Software Engineer - BBC News - Visual Journalism (Arabic Service)](http://careerssearch.bbc.co.uk/jobs/job/Software-Engineer-News-Visual-Journalism-Arabic-Service/25571)
 Applications close **20 Dec 2017**
 
-### [Software Tester - BBC News, World Service WS2020)](http://careerssearch.bbc.co.uk/jobs/job/Software-Tester-News-WS2020/23441)
+### [Software Tester - BBC News, World Service 2020](http://careerssearch.bbc.co.uk/jobs/job/Software-Tester-News-WS2020/23441)
 Applications close **7 Jan 2018**
 
 ### [Software Engineer - Data Presentation (JavaScript - NodeJS) BBC News](https://careershub.bbc.co.uk/members/modules/job/detail.php?record=25564)
