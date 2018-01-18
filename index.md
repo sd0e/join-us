@@ -15,11 +15,14 @@ Given the trust placed in BBC News, we work carefully and responsibly to deliver
 
 ## Currently Open...
 
+### [Junior Software Engineer - Frameworks & Tools- BBC News](https://careerssearch.bbc.co.uk/jobs/job/Junior-Software-Engineer/25857)
+Applications close **28 Jan 2018**
+
 ### [Senior Software Engineer - iOS Mobile Apps- BBC News](http://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-iOS-Mobile-Apps-BBC-News/24249)
-Applications close **21 Jan 2017**
+Applications close **21 Jan 2018**
 
 ### [Software Engineer - Data Presentation (JavaScript - NodeJS) BBC News](https://careershub.bbc.co.uk/members/modules/job/detail.php?record=25564)
-Applications close **26 Jan 2017**
+Applications close **26 Jan 2018**
 
 ## Opening soon...
 We'll open roles in these areas in the coming months:
