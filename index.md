@@ -15,14 +15,20 @@ Given the trust placed in BBC News, we work carefully and responsibly to deliver
 
 ## Currently Open...
 
-### [Lead Architect (Architecture) BBC News – Web, Apps & Broadcast Systems](http://careerssearch.bbc.co.uk/jobs/job/Lead-Architect-Architecture-BBC-News-Web-Apps-Broadcast-Systems/20885)
-Applications close **18 Dec 2017**
+### [Junior Software Engineer - Frameworks & Tools- BBC News](https://careerssearch.bbc.co.uk/jobs/job/Junior-Software-Engineer/25857)
+Applications close **28 Jan 2018**
 
 ### [Senior Software Engineer - iOS Mobile Apps- BBC News](http://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-iOS-Mobile-Apps-BBC-News/24249)
-Applications close **21 Jan 2017**
+Applications close **21 Jan 2018**
+
+### [Senior Architect - BBC News](https://careerssearch.bbc.co.uk/jobs/job/Senior-Architect/25336)
+Applications close **21 Jan 2018**
 
 ### [Software Engineer - Data Presentation (JavaScript - NodeJS) BBC News](https://careershub.bbc.co.uk/members/modules/job/detail.php?record=25564)
-Applications close **26 Jan 2017**
+Applications close **26 Jan 2018**
+
+### [Software Engineer - Back End - Java - BBC News](https://careerssearch.bbc.co.uk/jobs/job/Software-Engineer-Back-End-Java-News-WS2020/21278)
+Applications close **04 Feb 2018**
 
 ## Opening soon...
 We'll open roles in these areas in the coming months:
