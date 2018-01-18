@@ -24,6 +24,9 @@ Applications close **21 Jan 2018**
 ### [Software Engineer - Data Presentation (JavaScript - NodeJS) BBC News](https://careershub.bbc.co.uk/members/modules/job/detail.php?record=25564)
 Applications close **26 Jan 2018**
 
+### [Software Engineer - Back End - Java - BBC News](https://careerssearch.bbc.co.uk/jobs/job/Software-Engineer-Back-End-Java-News-WS2020/21278)
+Applications close **04 Feb 2018**
+
 ## Opening soon...
 We'll open roles in these areas in the coming months:
 
