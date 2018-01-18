@@ -15,9 +15,6 @@ Given the trust placed in BBC News, we work carefully and responsibly to deliver
 
 ## Currently Open...
 
-### [Lead Architect (Architecture) BBC News – Web, Apps & Broadcast Systems](http://careerssearch.bbc.co.uk/jobs/job/Lead-Architect-Architecture-BBC-News-Web-Apps-Broadcast-Systems/20885)
-Applications close **18 Dec 2017**
-
 ### [Senior Software Engineer - iOS Mobile Apps- BBC News](http://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-iOS-Mobile-Apps-BBC-News/24249)
 Applications close **21 Jan 2017**
 
