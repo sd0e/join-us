@@ -24,6 +24,9 @@ Applications close **05 Feb 2018**
 ### [Software Engineer - Back End - Java - BBC News](https://careerssearch.bbc.co.uk/jobs/job/Software-Engineer-Back-End-Java-News-WS2020/21278)
 Applications close **04 Feb 2018**
 
+### [Software Engineering Team Lead - Reach and Languages - BBC News](https://careerssearch.bbc.co.uk/jobs/job/Software-Engineering-Team-Lead-BBC-News-Reach-Languages/26294)
+Applications close **11 Feb 2018**
+
 ## Opening soon...
 We'll open roles in these areas in the coming months:
 
