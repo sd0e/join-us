@@ -15,14 +15,11 @@ Given the trust placed in BBC News, we work carefully and responsibly to deliver
 
 ## Currently Open...
 
-### [Senior Software Engineer - iOS Mobile Apps - BBC News](http://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-iOS-Mobile-Apps-BBC-News/24249)
-Applications close **05 Feb 2018**
+### [Senior Software Engineer - JS - BBC News](https://careershub.bbc.co.uk/members/modules/job/detail.php?record=26930)
+Applications close **n/a, we have several vacancies, the earlier you apply the higher your chances**
 
 ### [Software Engineer - Back End - Java - BBC News](https://careerssearch.bbc.co.uk/jobs/job/Software-Engineer-Back-End-Java-News-WS2020/21278)
-Applications close **04 Feb 2018**
-
-### [Software Engineering Team Lead - Reach and Languages - BBC News](https://careerssearch.bbc.co.uk/jobs/job/Software-Engineering-Team-Lead-BBC-News-Reach-Languages/26294)
-Applications close **11 Feb 2018**
+Applications close **04 Mar 2018**
 
 ## Opening soon...
 We'll open roles in these areas in the coming months:
