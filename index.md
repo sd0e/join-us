@@ -15,16 +15,16 @@ Given the trust placed in BBC News, we work carefully and responsibly to deliver
 
 ## Currently Open...
 
+### [Principal Software Engineer (Web) - BBC News](
+https://careershub.bbc.co.uk/members/modules/job/detail.php?record=27106)
+Applications close **18 Mar 2018**
+
 ### [Senior Software Engineer - JS - BBC News](https://careershub.bbc.co.uk/members/modules/job/detail.php?record=26930)
 Applications close **n/a, we have several vacancies, the earlier you apply the higher your chances**
-
-### [Software Engineer - Back End - Java - BBC News](https://careerssearch.bbc.co.uk/jobs/job/Software-Engineer-Back-End-Java-News-WS2020/21278)
-Applications close **04 Mar 2018**
 
 ## Opening soon...
 We'll open roles in these areas in the coming months:
 
-* **Principal Software Engineer - News in Web Engineering**
 * **Senior Software Engineer Mobile Apps (1 x iOS & 1 x Android) - Connected Data - Machine Learning**
 * **Software Engineer Mobile Apps (1 x iOS & 1 x Android) Connected Data - Machine Learning)**
 
