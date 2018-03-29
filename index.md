@@ -26,6 +26,9 @@ Applications close **When the role is filled**
 ### [Senior Software Engineer - JS - BBC News](https://careershub.bbc.co.uk/members/modules/job/detail.php?record=26930)
 Applications close **When the role is filled**
 
+### [Software Engineering Team Lead - JS - BBC News](https://careerssearch.bbc.co.uk/jobs/job/Software-Engineering-Team-Lead-BBC-News-Reach-Languages/26294)
+Applications close **8th Apr 2018**
+
 ### [Test Engineer - Broadcast systems - BBC News](https://careerssearch.bbc.co.uk/jobs/job/Tester-Broadcast-Systems-Development-Automation/26165)
 Applications close **3rd Apr 2018**
 
