@@ -11,12 +11,6 @@ We work in agile, lean, and flexible teams, with an exciting roadmap of innovati
 
 ## Currently Open...
 
-### [Data Engineer - Python/Java - BBC News](https://careerssearch.bbc.co.uk/jobs/job/Data-Engineer-BBC-News-Audience-Development-Python-Java/27267)
-Applications close **2nd Apr 2018**
-
-### [Data Scientist - BBC News](https://careerssearch.bbc.co.uk/jobs/job/Data-Scientist-BBC-News-Audience-Engagement/27275)
-Applications close **2nd Apr 2018**
-
 ### [Senior Software Engineer - Android - BBC News](https://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-Android-Mobile-BBC-News-App/27145)
 Applications close **When the role is filled**
 
@@ -26,14 +20,28 @@ Applications close **When the role is filled**
 ### [Senior Software Engineer - JS - BBC News](https://careershub.bbc.co.uk/members/modules/job/detail.php?record=26930)
 Applications close **When the role is filled**
 
-### [Software Engineering Team Lead - JS - BBC News](https://careerssearch.bbc.co.uk/jobs/job/Software-Engineering-Team-Lead-BBC-News-Reach-Languages/26294)
-Applications close **8th Apr 2018**
+### [Executive Product Manager – News Labs (12 month FTC)](https://careerssearch.bbc.co.uk/jobs/job/Executive-Product-Manager-News-Labs/28539)
+Applications close **30th May 2018**
 
-### [Test Engineer - Broadcast systems - BBC News](https://careerssearch.bbc.co.uk/jobs/job/Tester-Broadcast-Systems-Development-Automation/26165)
-Applications close **3rd Apr 2018**
+### [Senior Software Engineer – News Web (Permanent)](https://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-BBC-News-Web-Javascript-NodeJS-AWS/26930)
+Applications close **When the role is filled**
 
-### [Test Engineer - Weather - Automation - BBC News](https://careerssearch.bbc.co.uk/jobs/job/Test-Engineer-Broadcast-Systems-Automation-BBC-News/27322)
-Applications close **2nd Apr 2018**
+### [Senior Software Engineer - Android - BBC News (Permanent)](https://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-Android-Mobile-BBC-News-App/27145)
+Applications close **When the role is filled**
+
+### [Senior Software Engineer iOS, BBC News App (Permanent)](https://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-iOS-BBC-News-App/27094)
+Applications close **When the role is filled**
+
+### [Software-Engineering-Team-Lead-BBC-News (Permanent)](https://careerssearch.bbc.co.uk/jobs/job/Software-Engineering-Team-Lead-BBC-News-Reach-Languages/26294)
+Applications close **3rd June 2018**
+
+### [Software Engineering Team Lead BBC Monitoring (Permanent)](https://careerssearch.bbc.co.uk/jobs/job/Software-Engineering-Team-Lead-BBC-Monitoring/27969)
+Applications close **25th May 2018**
+
+### [Senior Software Engineer – BBC Monitoring (Permanent)](https://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-BBC-Monitoring-Python-Django-JavaScript/28066)
+Applications close **10th June 2018**
+
+
 
 ## Opening soon...
 We'll open roles in these areas in the coming months :)
