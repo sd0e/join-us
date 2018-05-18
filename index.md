@@ -17,19 +17,10 @@ Applications close **When the role is filled**
 ### [Senior Software Engineer - iOS - BBC News](https://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-iOS-BBC-News-App/27094)
 Applications close **When the role is filled**
 
-### [Senior Software Engineer - JS - BBC News](https://careershub.bbc.co.uk/members/modules/job/detail.php?record=26930)
-Applications close **When the role is filled**
-
 ### [Executive Product Manager – News Labs (12 month FTC)](https://careerssearch.bbc.co.uk/jobs/job/Executive-Product-Manager-News-Labs/28539)
 Applications close **30th May 2018**
 
 ### [Senior Software Engineer – News Web (Permanent)](https://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-BBC-News-Web-Javascript-NodeJS-AWS/26930)
-Applications close **When the role is filled**
-
-### [Senior Software Engineer - Android - BBC News (Permanent)](https://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-Android-Mobile-BBC-News-App/27145)
-Applications close **When the role is filled**
-
-### [Senior Software Engineer iOS, BBC News App (Permanent)](https://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-iOS-BBC-News-App/27094)
 Applications close **When the role is filled**
 
 ### [Software-Engineering-Team-Lead-BBC-News (Permanent)](https://careerssearch.bbc.co.uk/jobs/job/Software-Engineering-Team-Lead-BBC-News-Reach-Languages/26294)
