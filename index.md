@@ -20,6 +20,9 @@ Applications close **When the role is filled**
 ### [Senior Software Engineer – News Web (Permanent)](https://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-BBC-News-Web-Javascript-NodeJS-AWS/26930)
 Applications close **When the role is filled**
 
+### [Senior Software Engineer (Python Django JavaScript)](https://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-BBC-Monitoring-Python-Django-JavaScript/28066)
+Applications close **When the role is filled**
+
 ### [Software-Engineering-Team-Lead-BBC-News (Permanent)](https://careerssearch.bbc.co.uk/jobs/job/Software-Engineering-Team-Lead-BBC-News-Reach-Languages/26294)
 Applications close **When the role is filled**
 
