@@ -3,7 +3,7 @@ title: BBC News Products and Systems
 ---
 # Join Us
 
-We're looking for app and web software engineers as well as testers, old and new.
+We're looking for app and web software engineers.
 
 Come and join us in delivering the BBC's news services across the globe to **hundreds of millions of readers in over 40 languages.**
 
@@ -11,10 +11,17 @@ We work in agile, lean, and flexible teams, with an innovating roadmap for News 
 
 ## Currently Open...
 
-### [Senior Software Engineer - JS (React) - BBC News](https://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-BBC-News-Web-Javascript-NodeJS-AWS/33098)
-Applications close on the **27th of November 2018**
+### London
 
-### [Software Engineering Team Lead JS (React) - BBC News](https://careerssearch.bbc.co.uk/jobs/job/Software-Engineering-Team-Lead/30993)
+#### [4x Software Engineer - JS (React) - BBC News and World Service](https://careerssearch.bbc.co.uk/jobs/job/Software-Engineer-React-BBC-News-C/35178)
+Applications close **When the role is filled**
+
+#### [Junior Software Engineer - JS (React) - BBC News](https://careerssearch.bbc.co.uk/jobs/job/Junior-Software-Engineer-News-C/35180)
+Applications close **When the role is filled**
+
+### Glasgow
+
+####[Software Engineering Team Lead JS - BBC News](https://careerssearch.bbc.co.uk/jobs/job/Software-Engineering-Team-Lead-W2020/34232)
 Applications close **When the role is filled**
 
 ## Even more vacancies...
