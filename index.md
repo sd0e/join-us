@@ -13,10 +13,7 @@ We work in agile, lean, and flexible teams, with an innovating roadmap for News 
 
 ### London
 
-#### [4x Software Engineer - JS (React) - BBC News and World Service](https://careerssearch.bbc.co.uk/jobs/job/Software-Engineer-React-BBC-News-C/35178)
-Applications close **When the role is filled**
-
-#### [Junior Software Engineer - JS (React) - BBC News](https://careerssearch.bbc.co.uk/jobs/job/Junior-Software-Engineer-News-C/35180)
+#### [Software Engineering Team Lead - JS (React) - BBC News and World Service](https://careerssearch.bbc.co.uk/jobs/job/Software-Engineering-Team-Lead/30993)
 Applications close **When the role is filled**
 
 ### Glasgow
