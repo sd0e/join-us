@@ -21,10 +21,5 @@ Applications close **When the role is filled**
 #### [Software Engineering Team Lead JS - BBC World Service](https://careerssearch.bbc.co.uk/jobs/job/Software-Engineering-Team-Lead-W2020/34232)
 Applications close **When the role is filled**
 
-### Cardiff
-
-#### [Senior Software Engineer - BBC News](https://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-News-Weather/36190)
-Applications close **When the role is filled**
-
 ## Even more vacancies...
 You can find available open vacancies across BBC News on the [BBC Career portal](http://careerssearch.bbc.co.uk/jobs/search) by searching for 'News'.
