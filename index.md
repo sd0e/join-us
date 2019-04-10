@@ -21,7 +21,7 @@ Applications close **When the role is filled**
 
 **[Software Engineering Team Lead JS - BBC World Service](https://careerssearch.bbc.co.uk/jobs/job/Software-Engineering-Team-Lead-W2020/34232)**
 
-**[Senior Software Engineer - BBC World Service](https://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-W2020/37942)**
+**[Two Senior Software Engineers - BBC World Service](https://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-W2020/37942)**
 
 Applications close **When the role is filled**
 
