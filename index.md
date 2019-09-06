@@ -11,9 +11,9 @@ We work in agile, lean, and flexible teams, with an innovating roadmap for News 
 
 ## Currently Open...
 
-### London, Salford, Cardiff, Glasgow or Remote (UK Based)
+### Glasgow
 
-**[Senior Software Engineer - JS (React) - BBC News](https://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-BBC-News/41906)**
+**[Software Engineer - JS (React) - BBC News](https://careerssearch.bbc.co.uk/jobs/job/Software-Engineer-W2020/42206)**
 
 Applications close **When the role is filled**
 
