@@ -7,7 +7,7 @@ We're looking for app and web software engineers.
 
 Come and join us in delivering the BBC's news services across the globe to **hundreds of millions of readers in over 40 languages.**
 
-We work in agile, lean, and flexible teams, with an innovating roadmap for news on a wide variety of platforms. As you might imagine, massive scale, performance, accessibility are all important in our line of work as well as support for a wide range of devices, given the trusted place of BBC News, we work carefully, and responsibly, to deliver the best possible online news service.
+We work in agile, lean, and flexible teams, with an innovating roadmap for News on a wide variety of platforms. As you might imagine, massive scale, performance, and accessibility are all important in our line of work as well as support for a wide range of devices. Given the trusted place of BBC News we work carefully and responsibly to deliver the best possible online news service.
 
 ## Currently Open...
 
