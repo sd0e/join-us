@@ -13,6 +13,8 @@ We work in agile, lean, and flexible teams, with an innovating roadmap for News 
 
 ### London
 
+**[Software Engineering Team Lead - BBC News](https://careerssearch.bbc.co.uk/jobs/job/Software-Engineering-Team-Lead-BBC-News/44440)**
+
 **[Software Engineering Industrial Placement - BBC News](https://careerssearch.bbc.co.uk/jobs/job/Software-Engineering-Industrial-Placement-News/46240)**
 
 Applications close **When the role is filled**
