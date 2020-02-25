@@ -1,6 +1,7 @@
 ---
 title: BBC Digital Products
 ---
+
 # Join Us
 
 We're looking for app and web software engineers.
@@ -11,13 +12,12 @@ We work in agile, lean, and flexible teams, with an innovating roadmap for News 
 
 ## Currently Open...
 
-### London
+### Cardiff
 
-**[Software Engineering Team Lead - BBC News](https://careerssearch.bbc.co.uk/jobs/job/Software-Engineering-Team-Lead-BBC-News/44440)**
-
-**[Software Engineering Industrial Placement - BBC News](https://careerssearch.bbc.co.uk/jobs/job/Software-Engineering-Industrial-Placement-News/46240)**
+**[Software Engineer - BBC News](https://careerssearch.bbc.co.uk/jobs/job/Software-Engineer/48792)**
 
 Applications close **When the role is filled**
 
 ## Even more vacancies...
+
 You can find available open vacancies across BBC News on the [BBC Career portal](http://careerssearch.bbc.co.uk/jobs/search) by searching for 'News'.
