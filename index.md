@@ -12,11 +12,7 @@ We work in agile, lean, and flexible teams, with an innovating roadmap for News 
 
 ## Currently Open...
 
-### Cardiff
-
-**[Software Engineer - BBC News](https://careerssearch.bbc.co.uk/jobs/job/Software-Engineer/48792)**
-
-Applications will close **when the roles are filled**.
+**No vacancies currently open**
 
 ## Even more vacancies...
 
