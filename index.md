@@ -1,5 +1,5 @@
 ---
-title: BBC Digital and Engineering (D+E)
+title: BBC Design and Engineering (D+E)
 ---
 
 # Join Us
