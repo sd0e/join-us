@@ -1,19 +1,15 @@
 ---
-title: BBC Digital Products
+title: BBC Digital and Engineering (D+E)
 ---
 
 # Join Us
 
-We're looking for app and web software engineers.
+We're looking for Software Engineers, Technologists, and lots of other disciplines.
 
-Come and join us in delivering the BBC's news services across the globe to **hundreds of millions of readers in over 40 languages.**
+Come and join us in delivering the BBC's services across the globe to **half a billion listeners, readers and viewers in over 40 languages.**
 
-We work in agile, lean, and flexible teams, with an innovating roadmap for News on a wide variety of platforms. As you might imagine, massive scale, performance, and accessibility are all important in our line of work as well as support for a wide range of devices. Given the trusted place of BBC News we work carefully and responsibly to deliver the best possible online news service.
+We work in agile, lean, and flexible teams, with an innovating roadmap on a wide variety of platforms. As you might imagine, massive scale, performance, and accessibility are all important in our line of work as well as support for a wide range of devices. Given the trusted place of the BBC brand we work carefully and responsibly to deliver the best possible online services.
 
-## Currently Open...
+## You can find all our open roles...
 
-**No vacancies currently open**
-
-## Even more vacancies...
-
-You can find available open vacancies across BBC News on the [BBC Career portal](https://careerssearch.bbc.co.uk/jobs/search) by searching for 'News'.
+You can also search more widely by changing the filter criteria on this link [BBC Career Hub: Engineering, Technology, Systems & Delivery roles](https://careerssearch.bbc.co.uk/jobs/category/57).
