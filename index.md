@@ -16,4 +16,4 @@ We work in agile, lean, and flexible teams, with an innovating roadmap for News 
 
 ## Even more vacancies...
 
-You can find available open vacancies across BBC News on the [BBC Career portal](http://careerssearch.bbc.co.uk/jobs/search) by searching for 'News'.
+You can find available open vacancies across BBC News on the [BBC Career portal](https://careerssearch.bbc.co.uk/jobs/search) by searching for 'News'.
