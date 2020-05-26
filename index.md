@@ -4,7 +4,7 @@ title: BBC Design and Engineering (D+E)
 
 # Join Us
 
-We're looking for Software Engineers, Technologists, and lots of other disciplines.
+We're looking for Software Engineers, Test Engineers, User Experience Designers and lots of other disciplines.
 
 Come and join us in delivering the BBC's services across the globe to **half a billion listeners, readers and viewers in over 40 languages.**
 
