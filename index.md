@@ -12,4 +12,7 @@ We work in agile, lean, and flexible teams, with an innovating roadmap on a wide
 
 ## You can find all our open roles...
 
+### Principal Software Engineer (BBC News)
+[Apply here](https://careerssearch.bbc.co.uk/jobs/job/Principal-Software-Engineer-BBC-News-Weather/52268) - Closes 05/04/21
+
 You can also search more widely by changing the filter criteria on this link [BBC Career Hub: Engineering, Technology, Systems & Delivery roles](https://careerssearch.bbc.co.uk/jobs/category/57).
